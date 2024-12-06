@@ -1,0 +1,46 @@
+{
+  "productos": [
+    {
+      "id": "1687",
+      "nombre": "Auriculares",
+      "precio": "60.000",
+      "imagen": "https://www.mundolaptops.com/wp-content/uploads/2022/10/Audifono-Gamer-HALION-SCORPION-S1-430x394.png.webp"
+    },
+    {
+      "id": "0237",
+      "nombre": "Mouse",
+      "precio": "40.000",
+      "imagen": "https://www.mundolaptops.com/wp-content/uploads/2022/10/MOUSE-GAMER-HA-M329-GALLO-430x394.jpg.webp"
+    },
+    {
+      "id": "8f0c",
+      "nombre": "Keyboard Red Dragon",
+      "precio": "45.000",
+      "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f65ad7c8036f1e99b17e1e3fbcd89625026e26a0e81e4af34b1dc8b0cf7d235c169554.png"
+    },
+    {
+      "id": "9582",
+      "nombre": "Coolers",
+      "precio": "30.000",
+      "imagen": "https://www.itsitio.com/wp-content/uploads/2024/08/AIO-ASUS.webp"
+    },
+    {
+      "id": "1c89",
+      "nombre": "Gabinete",
+      "precio": "35.000",
+      "imagen": "https://acdn.mitiendanube.com/stores/001/418/967/products/31766-producto-5-f7f04f3478ea8751b617208942052944-1024-1024.jpg"
+    },
+    {
+      "id": "eae2",
+      "nombre": "Silla gamer",
+      "precio": "75.000",
+      "imagen": "https://images.fravega.com/f1000/93833c1e3d5f039f090e39f44e7675c4.jpg"
+    },
+    {
+      "id": "eac9",
+      "nombre": "Monitor",
+      "precio": "45.000",
+      "imagen": "https://multipoint.com.ar/Image/0/750_750-283.jpg"
+    }
+  ]
+}

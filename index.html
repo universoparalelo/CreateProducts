@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <!-- Puedes agregar Toastify desde un CDN -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+
+    <title>Alura Geek</title>
+</head>
+<body>
+    <header class="encabezado">
+        <h3 class="encabezado__titulo">Alura Geek</h3>
+    </header>
+    <main class="principal">
+        <section class="principal__agregar">
+            <form class="principal__agregar__formulario">
+                <h2 class="principal__agregar__formulario__titulo">Agregar producto </h2>
+                
+                <input placeholder="nombre..." type="text" id="nombre" name="nombre" required>
+            
+                <input placeholder="precio..." type="text" id="precio" name="precio" required>
+            
+                <input type="text" placeholder="imagen..." id="imagen">
+                
+                <div class="principal__agregar__formulario__botones">
+                    <button type="submit" id="agregarProducto">Agregar</button>
+                    <button>Cancelar</button>
+                </div>
+            </form>
+        </section>
+        <section class="principal__productos">
+            <h2 class="principal__productos__titulo">Mis productos </h2>
+            <article class="principal__productos__lista">
+                <!-- divs creados dinamicamente -->
+            </article>
+        </section>
+    </main>
+    <footer class="footer">
+        <p class="footer__texto1">Alura Geek</p>
+        <p class="footer__texto2">Desarrollado por Celeste</p>
+        <p class="footer__texto3">Alura Latam-202X</p>
+    </footer>
+    <script src="index.js" type="module"></script>
+    
+</body>
+</html>
